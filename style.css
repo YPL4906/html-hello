@@ -34,19 +34,19 @@ main {
 }
 
 .image-container {
-    text-align: center; /* Centra la imagen */
+    text-align: center;
     padding: 10px;
 }
 
 .image-container img {
     width: 100%;
     height: auto;
-    border-radius: 8px; /* Bordes redondeados para la imagen */
+    border-radius: 8px; 
 }
 
 .text-container {
     padding: 10px;
-    text-align: center; /* Centra el texto */
+    text-align: center; 
 }
 
 footer {
